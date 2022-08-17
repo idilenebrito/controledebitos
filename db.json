@@ -1,0 +1,46 @@
+{
+  "debts": [
+    {
+      "id": 20309,
+      "category": "Cartão de Crédito",
+      "amount": 500.00,
+      "dueDate": "2022-08-18",
+      "status": "Pendente"
+    },
+    {
+      "id": 7640,
+      "category": "Faculdade",
+      "amount": 100,
+      "status": "Pendente",
+      "dueDate": "2022-08-18"
+    },
+    {
+      "id": 99,
+      "category": "Escola",
+      "amount": 100,
+      "status": "Pendente",
+      "dueDate": "2022-08-19"
+    },
+    {
+      "id": 12936,
+      "category": "Supermercado",
+      "amount": 200.00,
+      "status": "Concluído",
+      "dueDate": "2022-08-27"
+    },
+    {
+      "id": 1685,
+      "category": "Água",
+      "amount": 50,
+      "status": "Concluído",
+      "dueDate": "2022-08-26"
+    },
+    {
+      "id": 14241,
+      "category": "Luz",
+      "amount": 100,
+      "status": "Pendente",
+      "dueDate": "2022-08-10"
+    }
+  ]
+}
