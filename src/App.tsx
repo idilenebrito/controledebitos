@@ -46,7 +46,6 @@ function App() {
           bodyTask[0].status = status;
           return { ...obj, status: status };
         }
-
         return obj;
       });
 
