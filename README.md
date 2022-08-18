@@ -1,3 +1,15 @@
+# Desafio Controle de Débitos
+O objetivo do desafio é praticar o context API do react.js.
+
+## Tecnologias
+- React.js
+- TypeScript
+- Json Server
+- Styled Components
+- mUI
+
+![print](https://github.com/idilenebrito/controledebitos/blob/main/asserts/print.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
